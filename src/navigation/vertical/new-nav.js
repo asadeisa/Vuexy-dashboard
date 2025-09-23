@@ -29,5 +29,11 @@ export default [
     badgeClass: 'bg-error',
     to: 'dashboards-cart',
   },
+  {
+    title: 'health-metrics',
+    icon: { icon: 'tabler-ribbon-health' },
+    badgeClass: 'bg-error',
+    to: 'dashboards-health-metrics',
+  },
 
 ]

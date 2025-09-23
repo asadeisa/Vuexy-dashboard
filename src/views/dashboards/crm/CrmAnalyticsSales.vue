@@ -38,7 +38,7 @@ const chartOptions = computed(() => {
   
   return {
     chart: {
-      type: 'radar',
+      type: 'line',
       toolbar: { show: false },
     },
     plotOptions: {
